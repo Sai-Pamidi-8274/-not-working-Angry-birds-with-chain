@@ -1,2 +1,2 @@
-# -not-working-Angry-birds-with-chain
-COME 'ere
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
